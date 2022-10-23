@@ -1,0 +1,15 @@
+Hello Kali
+welcome to git
+you have learnt below git commands
+1. git installation/ init
+2. creation of directory/file creation
+3. add it to git
+4. commit the changes
+5. add the git url
+6. update the ursername and email
+7. push to github
+8. create branch
+9. go to the branch
+10. create file, add and commit
+11. merget it to master
+12. push to master
