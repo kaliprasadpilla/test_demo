@@ -2,4 +2,8 @@
  Had your lunch?
  What's todays spl
  Let's go out for a break
+<<<<<<< HEAD
  What do you like
+=======
+ I like Biryani
+>>>>>>> 22-Oct-22
